@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @fzampirolli
+  username               : fzampirolli
 facebook:
   username               : 
   app_id                 :
@@ -90,12 +90,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : @fzampirolli
+  facebook         : fzampirolli
   foursquare       :
-  github           : @fzampirolli
+  github           : fzampirolli
   google_plus      :
   keybase          :
-  instagram        : @fzampirolli
+  instagram        : fzampirolli
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-7707-1793"
@@ -104,11 +104,11 @@ author:
   stackoverflow    : #https://pt.stackoverflow.com/users/104062/francisco-zampirolli
   steam            :
   tumblr           :
-  twitter          : @fzampirolli
+  twitter          : fzampirolli
   vine             :
   weibo            :
   xing             :
-  youtube          : @fzampirolli1
+  youtube          : fzampirolli1
   wikipedia        :
 
 
