@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : https://twitter.com/fzampirolli
+  username               : "https://twitter.com/fzampirolli"
 facebook:
   username               :
   app_id                 :
